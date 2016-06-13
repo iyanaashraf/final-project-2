@@ -1,0 +1,29 @@
+
+html{
+   text-align: center;
+
+}
+
+#courses {
+	color:red;
+}
+
+a:link {
+   color:#FF00FF;
+}
+
+/* visited link */
+a:visited {
+   color:red;
+}
+
+/* mouse over link */
+a:hover {
+   color:blue;
+}
+
+/* selected link */
+a:active {
+   color:green;
+}
+
